@@ -1,2 +1,3 @@
 # AstroEdu
-An astro template to write educational blogs
+
+An Astro template that simplifies writing STEM blogs.
