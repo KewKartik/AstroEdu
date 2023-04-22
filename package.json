@@ -1,5 +1,5 @@
 {
-  "name": "square-shell",
+  "name": "astroedu",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -13,6 +13,8 @@
     "@astrojs/mdx": "^0.19.0",
     "@astrojs/rss": "^2.3.2",
     "@astrojs/sitemap": "^1.2.2",
-    "astro": "^2.3.0"
+    "astro": "^2.3.0",
+    "rehype-katex": "^6.0.2",
+    "remark-math": "^5.1.1"
   }
 }
